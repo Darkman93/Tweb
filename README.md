@@ -1,4 +1,6 @@
-Per poter utilizzare il sito bisonga:
+Sito per l'esame di Tecnologie Web della Laurea Triennale in Informatica indirizzo Reti e Sistemi.
+
+Per poter utilizzare il sito bisogna:
 
 - importare su phpmyadmin il database del sito, la cui posizione si trova nella cartella "database" con il nome "progetto.sql"
 
